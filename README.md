@@ -1,4 +1,4 @@
 revizr
 ======
 
-API using html to revise texts
+An application that uses HTML to revise texts
